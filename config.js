@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        px: 'Sj!',
-        playing: 'Music with Sj!'
+        px: 'k!',
+        playing: 'Music with Kid!'
     },
 
     opt: {
